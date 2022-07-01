@@ -1,3 +1,3 @@
 # To do list 
 
-Para ver esse site em funcionameto acesse [todolist.gitub.io](todolist.github.io)
+Para ver esse site em funcionameto acesse [todolist](https://gugbug.github.io/todolist/)
